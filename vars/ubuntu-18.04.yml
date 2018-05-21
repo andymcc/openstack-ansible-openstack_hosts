@@ -79,7 +79,7 @@ _openstack_host_metal_distro_packages:
   - libkmod-dev
   - libkmod2
   - lvm2
-  - python-software-properties
+  - software-properties-common
   - python-dev
   - rsync
   - rsyslog
